@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@types/ms": "^0.7.31",
-    "canvacord": "^3.0.9",
+    "canvacord": "^5.2.1",
     "connect-four": "0.0.6",
     "discord-xp": "^1.0.6",
     "discord.js": "^12.3.1",
